@@ -1,0 +1,25 @@
+#main {
+    background-color: rgba(0, 0, 0, 0.576);
+    width: 300px;
+    height: 100px;
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.262);
+}
+
+#text {
+    display: inline-block;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: white;
+}

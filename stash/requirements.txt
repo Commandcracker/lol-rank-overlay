@@ -1,0 +1,7 @@
+# QT
+pyside6~=6.6.0
+qt_material~=2.14
+
+psutil~=5.9.6
+requests~=2.31.0
+urllib3~=1.26.18
